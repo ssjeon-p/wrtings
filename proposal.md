@@ -29,9 +29,8 @@ Next, we will implement the protocol using halo2, and compare the performance. T
 * https://https://github.com/ssjeon-p
 
 ### Team's experience
-PSE summer contribution 2023, learning about zkp and halo2.
-
-Ph.D major in number theory and algebraic geometry (ongoing)
+* PSE summer contribution 2023, learning about zkp and halo2.
+* Ph.D major in number theory and algebraic geometry (ongoing)
 
 ### Team Code Repos
 * https://github.com/ssjeon-p
