@@ -30,6 +30,7 @@ Next, we will implement the protocol using halo2, and compare the performance. T
 
 ### Team's experience
 PSE summer contribution 2023, learning about zkp and halo2.
+
 Ph.D major in number theory and algebraic geometry (ongoing)
 
 ### Team Code Repos
